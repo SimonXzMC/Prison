@@ -1,0 +1,6 @@
+name: Prison
+version: 1.0-SNAPSHOT
+main: prison.prison.PrisonMain
+authors: [Simon_Xz]
+description: GnomeMCs Custom Prison Plugin
+website: http://gnomemc.net
